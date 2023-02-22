@@ -300,10 +300,6 @@ header {
         grid-row: 2 / 2;
     }
 
-    .destinations section .ruler svg .icon-tabler-ruler-2{
-        viewBox: 0, 0, 115, 115;
-    }
-
     .destinations section svg {
         filter: invert(100%) sepia(98%) saturate(9%) hue-rotate(166deg) brightness(200%) contrast(104%);
     }
@@ -574,10 +570,6 @@ header {
     /* Contact Form Radio Buttons  -  NOT FINISHED YET need to adjust radio buttons so they are on one line*/
     form input#fName, form input#lName, form input#email, form input#phone {
         width: 97.5%;
-    }
-
-    fieldset input[type="radio"], fieldset label[for="fName"] {
-        
     }
 
     /* Footer Section */
